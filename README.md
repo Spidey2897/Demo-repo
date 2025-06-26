@@ -1,2 +1,2 @@
 # Demo-repo
-Demo repo for Git and Github
+Demo repo for Git and Github.
